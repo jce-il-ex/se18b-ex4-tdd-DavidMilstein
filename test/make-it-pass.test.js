@@ -20,3 +20,8 @@ test('sub should return the substraction of two numbers', function (t) {
   t.equal(3, sub(6, 3)); // make this test pass by completing the add function!
   t.end();
 });
+
+test('sub should return the substraction of two numbers', function (t) {
+  t.equal(5, sub(10, 5)); // make this test pass by completing the add function!
+  t.end();
+});
